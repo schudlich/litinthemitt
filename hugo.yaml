@@ -1,0 +1,17 @@
+baseURL: localhost:1313/
+languageCode: en-us
+title: Lit in the Mitt Guide ✋
+theme: hugo-book
+
+menu:
+  home:
+    - name: "About"
+      pageRef: "content/docs/about.md/"
+      weight: 1
+    - name: "Presses"
+      pageRef: "content/docs/presses.md/"
+      weight: 2
+    - name: "Books"
+      pageRef: "content/docs/books.md/"
+      weight: 3
+
