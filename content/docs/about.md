@@ -7,4 +7,4 @@ weight: 1
 ---
 
 
-## Welcome to the Lit in the Mitt guide!
+## Welcome to the Lit in the Mitt guide! ✋
