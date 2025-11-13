@@ -18,3 +18,8 @@ menu:
 caches:
   images:
     dir: :cacheDir/images
+
+params:
+  bookSection: "docs"
+  bookToc: false
+  bookCollapseSection: true

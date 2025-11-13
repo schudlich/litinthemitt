@@ -1,5 +1,5 @@
 ---
-title: "Books About Michigan"
+title: "Works About Michigan"
 layout: "books"
 url: "/books/"
 summary: books
