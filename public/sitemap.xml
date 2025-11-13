@@ -8,6 +8,8 @@
   </url><url>
     <loc>http://localhost:1313/litinthemitt/books/</loc>
   </url><url>
+    <loc>http://localhost:1313/litinthemitt/authors/</loc>
+  </url><url>
     <loc>http://localhost:1313/litinthemitt/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/litinthemitt/docs/</loc>
