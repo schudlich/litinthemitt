@@ -14,9 +14,9 @@ weight: 3
 
 ***
 
-{{< button href="https://schudlich.github.io/litinthemitt/docs/works/fiction/" >}}Fiction{{< /button >}}
-{{< button href="https://schudlich.github.io/litinthemitt/docs/works/literary-non-fiction/" >}}Literary Non-Fiction{{< /button >}}
-{{< button href="https://schudlich.github.io/litinthemitt/docs/works/poetry/" >}}Poetry{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/fiction/" >}}Fiction{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/literary-non-fiction/" >}}Literary Non-Fiction{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/poetry/" >}}Poetry{{< /button >}}
 
 
 <!-- [Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/fiction/)\
