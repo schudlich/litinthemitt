@@ -1,22 +1,29 @@
 ---
 title: "Works About Michigan"
-layout: "books"
-url: "/books/"
-summary: books
+layout: "works"
+url: "/works/"
+summary: works
 weight: 3
 ---
 
-## Finding Books About Michigan
+## Works About Michigan
+
+![Huron River in Ann Arbor, MI](HuronRiverAnnArbor.jpeg)
+*AndrewHorne, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons*
+<!-- ### Find: -->
 
 ***
 
-### Find:
+{{< button href="https://schudlich.github.io/litinthemitt/docs/works/fiction/" >}}Fiction{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/docs/works/literary-non-fiction/" >}}Literary Non-Fiction{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/docs/works/poetry/" >}}Poetry{{< /button >}}
 
-[Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/fiction/)\
+
+<!-- [Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/fiction/)\
 [Literary Non-Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/literary-non-fiction/)\
-[Poetry Resources](https://schudlich.github.io/litinthemitt/docs/works/poetry/)
+[Poetry Resources](https://schudlich.github.io/litinthemitt/docs/works/poetry/) -->
 
-***
+
 
 ### General Resources
 

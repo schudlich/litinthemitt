@@ -6,7 +6,7 @@
   </url><url>
     <loc>http://localhost:1313/litinthemitt/presses/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/books/</loc>
+    <loc>http://localhost:1313/litinthemitt/works/</loc>
   </url><url>
     <loc>http://localhost:1313/litinthemitt/authors/</loc>
   </url><url>
@@ -14,13 +14,13 @@
   </url><url>
     <loc>http://localhost:1313/litinthemitt/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/docs/works/fiction/</loc>
+    <loc>http://localhost:1313/litinthemitt/fiction/</loc>
   </url><url>
     <loc>http://localhost:1313/litinthemitt/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/docs/works/literary-non-fiction/</loc>
+    <loc>http://localhost:1313/litinthemitt/literary-non-fiction/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/docs/works/poetry/</loc>
+    <loc>http://localhost:1313/litinthemitt/poetry/</loc>
   </url><url>
     <loc>http://localhost:1313/litinthemitt/tags/</loc>
   </url>

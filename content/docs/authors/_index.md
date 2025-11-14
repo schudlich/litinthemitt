@@ -9,4 +9,5 @@ weight: 4
 
 # Michigan-Based Authors
 
-This is a test
+![USFS Road in Manistee National Forest](Manistee_National_Forest.jpg)
+*USFS Road in Manistee National Forest - RomanKahler, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons*

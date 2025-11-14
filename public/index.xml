@@ -7,26 +7,5 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/litinthemitt/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fiction</title>
-      <link>http://localhost:1313/litinthemitt/docs/works/fiction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/litinthemitt/docs/works/fiction/</guid>
-      <description>&lt;h1 id=&#34;fiction&#34;&gt;Fiction&lt;a class=&#34;anchor&#34; href=&#34;#fiction&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Literary Non-Fiction</title>
-      <link>http://localhost:1313/litinthemitt/docs/works/literary-non-fiction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/litinthemitt/docs/works/literary-non-fiction/</guid>
-      <description>&lt;h1 id=&#34;literary-non-fiction&#34;&gt;Literary Non-Fiction&lt;a class=&#34;anchor&#34; href=&#34;#literary-non-fiction&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Poetry</title>
-      <link>http://localhost:1313/litinthemitt/docs/works/poetry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/litinthemitt/docs/works/poetry/</guid>
-      <description>&lt;h1 id=&#34;poetry&#34;&gt;Poetry&lt;a class=&#34;anchor&#34; href=&#34;#poetry&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
-    </item>
   </channel>
 </rss>

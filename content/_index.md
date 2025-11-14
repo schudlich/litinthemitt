@@ -7,7 +7,7 @@ description: "The Lit in the Mitt Homepage"
 
   ## Welcome to Lit in the Mitt ✋
 
-![By Rachel Kramer - originally posted to Flickr as Lake Michigan / Sleeping Bear Dunes, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=8402214](homeimages/Lake_Michigan_Sleeping_Bear_Dunes.jpg)
+![Lake Michigan / Sleeping Bear Dunes,Rachel Kramer, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons](Lake_Michigan_Sleeping_Bear_Dunes.jpg)Lake Michigan / Sleeping Bear Dunes Rachel Kramer, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
 
 This Resource Guide can help you locate books, poetry, and other works of literature pertaining to Michigan. It is separated into three main sections:
 
