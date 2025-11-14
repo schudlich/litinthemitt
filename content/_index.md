@@ -15,4 +15,5 @@ This Resource Guide can help you locate books, poetry, and other works of litera
   * These are publishers that are located in Michigan, although their works may not take place in or be about Michigan.
 * Works About Michigan
   * These are resources that can help you find literary works that are set in or about Michigan.
+  * Resources are separated by Genre: Fiction, Literary Non-Fiction, and Poetry
 * Michigan-Based Authors

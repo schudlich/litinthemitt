@@ -7,6 +7,6 @@ weight: 4
 ---
 
 
-## Welcome to the Lit in the Mitt guide! ✋
+# Michigan-Based Authors
 
 This is a test

@@ -6,4 +6,4 @@ summary: presses
 weight: 2
 ---
 
-## Presses operating in Michigan
+#Michigan-Based Presses
