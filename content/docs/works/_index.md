@@ -9,7 +9,7 @@ weight: 3
 ## Works About Michigan
 
 ![Huron River in Ann Arbor, MI](HuronRiverAnnArbor.jpeg)
-*AndrewHorne, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons*
+*Huron River in Ann Arbor - AndrewHorne, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons*
 <!-- ### Find: -->
 
 ***
