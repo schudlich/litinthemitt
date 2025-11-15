@@ -14,19 +14,21 @@ weight: 3
 
 ***
 
-{{< button href="https://schudlich.github.io/litinthemitt/fiction/" >}}Fiction{{< /button >}}
-{{< button href="https://schudlich.github.io/litinthemitt/literary-non-fiction/" >}}Literary Non-Fiction{{< /button >}}
+{{< button href="https://schudlich.github.io/litinthemitt/prose/" >}}Prose{{< /button >}}
 {{< button href="https://schudlich.github.io/litinthemitt/poetry/" >}}Poetry{{< /button >}}
 
+***
 
-<!-- [Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/fiction/)\
-[Literary Non-Fiction Resources](https://schudlich.github.io/litinthemitt/docs/works/literary-non-fiction/)\
-[Poetry Resources](https://schudlich.github.io/litinthemitt/docs/works/poetry/) -->
+### **General Resources**
 
-
-
-### General Resources
+***
 
 #### [Michigan Notables](https://www.michigan.gov/libraryofmichigan/public/mnb)
 
 The Library of Michigan releases an annual list of Michigan Notable Books.
+
+#### [Books Set in Detroit Michigan - Goodreads](https://www.goodreads.com/places/1944-detroit-michigan)
+
+A list of books set in Detroit, Michigan curated by Goodreads users.
+
+#### []

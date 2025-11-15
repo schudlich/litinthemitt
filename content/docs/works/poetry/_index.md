@@ -12,7 +12,10 @@ summary: poetry
 
 ***
 
-{{< button href="https://schudlich.github.io/litinthemitt/fiction/" >}}Fiction{{< /button >}}
-{{< button href="https://schudlich.github.io/litinthemitt/literary-non-fiction/" >}}Literary Non-Fiction{{< /button >}}
+### Looking for something else?
+
+{{< button href="https://schudlich.github.io/litinthemitt/prose/" >}}Prose{{< /button >}}
+
+***
 
 ## Resources

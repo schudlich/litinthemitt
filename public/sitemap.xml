@@ -14,13 +14,11 @@
   </url><url>
     <loc>http://localhost:1313/litinthemitt/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/fiction/</loc>
-  </url><url>
     <loc>http://localhost:1313/litinthemitt/</loc>
   </url><url>
-    <loc>http://localhost:1313/litinthemitt/literary-non-fiction/</loc>
-  </url><url>
     <loc>http://localhost:1313/litinthemitt/poetry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/litinthemitt/prose/</loc>
   </url><url>
     <loc>http://localhost:1313/litinthemitt/tags/</loc>
   </url>
